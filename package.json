@@ -1,10 +1,10 @@
 {
   "name": "saqlain021-guessing_number",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "you can guess your number here.",
   "main": "index.js",
   "type": "module",
-  "bin":"main.js",
+  "bin": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,5 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
   }
 }
