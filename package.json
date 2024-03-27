@@ -1,0 +1,17 @@
+{
+  "name": "n11s1-guessing_number",
+  "version": "1.0.0",
+  "description": "you can guess your number here.",
+  "main": "index.js",
+  "type": "module",
+  "bin":"main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
